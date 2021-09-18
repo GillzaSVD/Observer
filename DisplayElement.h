@@ -1,6 +1,6 @@
 #pragma once
-class DisplayElement
-{
+
+class DisplayElement {
 public:
 	virtual void display() = 0;
 };
